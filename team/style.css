@@ -1,27 +1,7 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
-*,
-*::before,
-*::after {
-  box-sizing: inherit;
-}
-
-html {
-  font-size: 62.5%;
-  box-sizing: border-box;
-  scroll-behavior: smooth;
-}
 body {
   font-family: "PT Sans", sans-serif;
   background-color: #fafafa;
   color: #000;
-}
-
-img {
-  max-width: 100%;
 }
 
 /* header */
